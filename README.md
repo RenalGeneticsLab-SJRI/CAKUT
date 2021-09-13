@@ -9,6 +9,8 @@
 ### Findings
 
 - Cohort of the size 110 patients and 69 of these patients were genotyped  <br  >  
+
+
 | Phenotype | % representation |
 | --- | --- |
 | Posterior Urethral Valve (PUV) | 39.1 % |
